@@ -1,2 +1,2 @@
 # Tecans
-pagina web para servicio técnico
+pagina web para serávicio técnico 
