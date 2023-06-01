@@ -2244,7 +2244,7 @@ input, select, textarea {
 			}
 /*Caratula principal*/
 			#main > section.one {
-			/*	background-color: #81918E;*/
+				background-color: #81918E;
 				background-image: url("../../images/banner.jpg");
 			}
 
